@@ -1,4 +1,4 @@
-module web-service-gin
+module blockchain-tutorial-go-gin
 
 go 1.19
 
