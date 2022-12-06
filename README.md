@@ -1,2 +1,3 @@
-# web-service-gin
-just a hello world project to learn golang
+# blockchain-tutorial-go-gin
+
+My attempt to learn golang and gin by doing this app.
