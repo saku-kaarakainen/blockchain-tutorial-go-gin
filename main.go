@@ -8,7 +8,7 @@ import (
 
 func main() {
 	router := gin.Default()
-	router.GET("/albums", endpoints.GetAlbums)
+	endpoints.NewTransaction(router)
 
 	router.Run("localhost:8080")
 }

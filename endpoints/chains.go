@@ -1,3 +1,4 @@
+package endpoints
 
 /* TODO: endpoint:
 	Gets the current chain and it's length from the node.
